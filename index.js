@@ -1,11 +1,13 @@
 'use strict';
 
+//core path
+var path = require('path');
+
+
 //expose
 module.exports = new Command;
 
 
-//core path
-var path = require('path');
 
 function Command(name) {
     this.options = [];
