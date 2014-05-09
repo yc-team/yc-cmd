@@ -28,8 +28,7 @@ function Option(flags, desc) {
         this.long = flags[1];
     }
 
-    this.desc = desc;
-
+    this.desc = desc || '';
 
 }
 
