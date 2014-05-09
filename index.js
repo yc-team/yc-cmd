@@ -14,8 +14,10 @@ function Command(name) {
     this._name = name;
 }
 
-//flags : '-v, --version'
-//desc  : 'show me the version'
+/**
+ * @param {String} flags   : '-v, --version'
+ * @param {String} desc    : 'show me the version'
+ */
 function Option(flags, desc) {
     this.flags = flags;
 
