@@ -23,6 +23,7 @@ function Option(flags, desc) {
 
     flags = flags.split(/[ ,|]+/);
 
+    //simple and efficient
     if (flags.length == 2) {
         this.short = flags[0];
         this.long = flags[1];
