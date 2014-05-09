@@ -8,7 +8,7 @@ var path = require('path');
 module.exports = new Command;
 
 
-
+//Command
 function Command(name) {
     this.options = [];
     this._name = name;
