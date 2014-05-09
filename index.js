@@ -1,5 +1,9 @@
 'use strict';
 
+//expose
+module.exports = new Command;
+
+
 //core path
 var path = require('path');
 
@@ -148,7 +152,7 @@ Command.prototype.parseArgs = function(args, unknown) {
     if (args.length) {
 
     } else {
-        
+
         showHelpInfo(this, unknown);
 
         if (unknown.length > 0) {
