@@ -19,6 +19,7 @@ var cmd = require('yc-cmd');
 
 1. parse接口支持传递的参数:
 
+> 约定为：process.argv，目前不支持别的参数
 
 2. option接口支持的参数：
 
