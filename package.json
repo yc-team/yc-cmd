@@ -1,0 +1,23 @@
+{
+  "name": "yc-cmd",
+  "version": "0.0.3",
+  "description": "this is a open tool for yc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhangyaochun/yc-cmd.git"
+  },
+  "keywords": [
+    "yc",
+    "cmd",
+    "tool"
+  ],
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zhangyaochun/yc-cmd/issues"
+  }
+}
