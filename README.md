@@ -7,8 +7,6 @@ this is a *humanize* commander for yc
 
 ```js
 var cmd = require('yc-cmd');
-
-
 ```
 
 
