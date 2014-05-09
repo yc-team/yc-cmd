@@ -1,7 +1,7 @@
 yc-cmd
 ======
 
-this is a commander for yc
+this is a *humanize* commander for yc
 
 ### 特性：
 
