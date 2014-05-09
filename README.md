@@ -11,7 +11,7 @@ this is a *humanize* commander for yc
 
 1. parse接口支持传递的参数:
 
-> 约定为process.argv，目前不支持别的参数
+> 约定为：process.argv，目前不支持别的参数
 
 
 ### TODO：
