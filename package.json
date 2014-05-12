@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/zhangyaochun/yc-cmd.git"
+    "url": "git://github.com/yc-team/yc-cmd.git"
   },
   "keywords": [
     "yc",
@@ -18,6 +18,6 @@
   "author": "zhangyaochun",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/zhangyaochun/yc-cmd/issues"
+    "url": "https://github.com/yc-team/yc-cmd/issues"
   }
 }
